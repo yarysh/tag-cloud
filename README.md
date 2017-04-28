@@ -1,3 +1,3 @@
 # Python Tag Cloud
-qwe
-Translation PHP Tag Cloud on Python 2.7[link to Google!](http://google.com)
+
+Translation [PHP Tag Cloud!](https://github.com/lotsofcode/tag-cloud) on Python 2.7
